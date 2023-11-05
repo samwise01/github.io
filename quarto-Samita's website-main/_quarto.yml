@@ -21,7 +21,9 @@ website:
         href: accomplishments/index.qmd
       - text: "Experience"
         href: experience/index.qmd
-     - text: "CV"
+      - text: "Photography"
+        href: photography/index.qmd
+      - text: "CV"
         href: cv/index.qmd
       
     
@@ -37,7 +39,7 @@ website:
         href: https://www.linkedin.com/in/gazishamita/
       - icon: envelope
         aria-label: email
-        href: "mailto:mail.gxs483@case.edu"  
+        href: "mailto: mail.gxs483@case.edu"  
   
   
 
