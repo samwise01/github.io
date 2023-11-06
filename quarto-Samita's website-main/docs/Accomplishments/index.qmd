@@ -1,0 +1,23 @@
+---
+title: Accomplishments 
+---
+
+### ENGAGE - Research Scholar Award- National Center of Regenerative Medicine · May 2022
+Association: Case Comprehensive Cancer Center- Case Western Reserve University
+
+National Center of Regenerative Medicine has awarded ENGAGE summer research training for Summer 2022 on conducting research for regenerative medicine. The ENGAGE summer research training program supports undergraduate, master's, or medical students interested in stem cell and regenerative medicine research. Students are provided opportunities for scientific growth by working with renowned scientific investigators.
+----
+
+### Dean's List - Fall 2020 
+Association: Missouri State University
+
+### Dean's List - Fall 2018
+Association: Missouri State University
+
+----
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
