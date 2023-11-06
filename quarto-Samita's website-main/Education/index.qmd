@@ -1,0 +1,21 @@
+---
+title: "Education"
+---
+## Doctor of Philosophy in Clinical Translational Science                                                       07/2023- Present
+### School of Medicine, Case Western Reserve University, Cleveland, Ohio
+----
+## Master of Science in Regenerative Medicine and Entrepreneurship                                               08/2021-01/2023 ### School of Medicine, Case Western Reserve University, Cleveland, OH  
+----
+## Bachelor of Science in Microbiology and Biotechnology                                                        01/2017- 12/2020 ### College of Natural and Applied Sciences, Missouri State University, Springfield, MO  	 
+•	Minor in Chemistry -Emphasis on Analytical Chemistry and Biochemistry 
+•	Dean’s list Spring 2018, Fall 2021 
+
+
+
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
