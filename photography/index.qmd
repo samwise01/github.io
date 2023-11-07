@@ -1,0 +1,36 @@
+---
+title: "Photography"
+---
+
+Capturing life's snippets one click at a time, my camera serves as a storyteller, revealing the vibrant tapestry of my adventures and scholarly musings. Each photo is a chapter in my visual diary, inviting you to join in the curious, candid moments that paint the canvas of my journey.
+
+::: {layout-ncol=2}
+
+
+![](phg_image_1.jpeg)
+
+![](phg_image_2.jpeg)
+
+![](phg_image_3.jpg)
+
+
+![](phg_image_4.jpg)
+
+![](phg_image_5.jpg)
+
+![](phg_image_6.jpg)
+
+![](phg_image_8.jpeg)
+
+
+
+
+![](phg_image_7.jpeg)
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
