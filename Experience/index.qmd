@@ -1,0 +1,68 @@
+---
+title: "Experience"
+---
+
+
+## Vice President                                                                      10/2022- Present Steiner House Cooperation,Cleveland, Ohio
+
+•	Welcome new residents, provide orientation, and craft welcome letters for admission packets to facilitate a smooth transition for newcomers.
+
+•	Organize and coordinate monthly indoor and outdoor events, fostering resident engagement and maintaining event records via the Steiner House party planner Google sheet.
+
+•	Manage budget-conscious event hosting, subsidizing resident participation, and organize mandatory house events within set budgets, such as Thanksgiving, Graduation, Halloween, Spring Cleaning, Holiday Party, and Asian New Year celebrations.
+
+•	Ensure house functionality by regularly checking the suggestion box, resolving internal issues by discussing with involved members, attending executive committee meetings, and assuming the role of Acting President during the President's temporary absence, ensuring continuous leadership.
+
+----
+
+
+## Research Technician II                                                              04/2023-07/2023 McGrail Lab| Center for Immunotherapy and Immuno-Oncology| Lerner Research Institute-Cleveland Clinic| Cleveland, Ohio 
+
+•	Develop novel immunotherapies and optimize patient stratification for immune checkpoint blockade to improve patient outcomes.
+
+•	Analyze large-scale clinical data and experimental models to identify biomarkers and new therapeutic targets to enhance clinical outcomes. 
+
+•	Proficient in utilizing basic laboratory techniques and equipment operation to perform experiments under supervision, as well as fulfilling general laboratory duties, including maintaining lab supplies, ensuring safety protocols, and keeping meticulous records of experimental data. 
+
+•	Contribute to translational research for a comprehensive understanding of cancer biology and other complex diseases, with a focus on developing novel therapeutic strategies to improve patient outcomes. 
+
+----
+
+
+## Intern                                                                               02/2023-04/2023- Bonfield Lab| National Center for Regenerative Medicine| Case Western Reserve University| Cleveland, Ohio 
+
+•	Conduct research on the use of mesenchymal stem cells in immunotherapy, with a focus on novel applications for chronic lung inflammation e.g., Cystic Fibrosis, Asthma, bronchopulmonary disease and allergy/anaphylaxis. 
+
+•	Performed in vitro assays to evaluate mesenchymal stem cell-mediated effects on immune cell function, including T cell activation and cytokine production. 
+
+----
+
+
+## Graduate Research Assistant                                                         03/2022- 08/2022 -Desai lab| Case Comprehensive Cancer Center |Case Western Reserve University| Cleveland, Ohio 
+
+•	Led research on the use of 15- Hydroxy-prostaglandin dehydrogenase inhibition on hematopoietic stem cell (HSC) aging at Desai lab, resulting in the award of ENGAGE scholar award from National Center of Regenerative Medicine securing funding for the project. 
+
+•	Contributed to the development of novel therapeutic approach for novel therapeutic approach for HSC aging using hematopoietic based therapy and presented findings at Case Comprehensive Cancer center and Cleveland Clinic for Regenerative medicine conference. 
+
+• 	Gained expertise in sample preparation and analyzing in-vitro tissues for molecular cell-based methodologies by HSC culture and manipulation, Flow cytometry, Quantitative Polymerase Chain Reaction (qPCR), organ harvest of 60-week-old mice models 
+
+----
+
+
+## Undergraduate Research Assistant 	                                                 04/2019 – 05/2021 -Udan lab| Missouri State University, Springfield, MO  
+
+•	Assisted with the maintenance and culture of cell lines and primary cells used in cardiovascular development research. 
+
+•	Assisted with animal surgeries and post-operative care and obtained tissue samples for downstream analysis.   
+
+•	Record and maintain accurate research documentation and perform initial analyses to identify non-conforming data points and/or interpret outcomes. 
+o Data analysis software: Microsoft Excel, LabTracks, Minitab 
+
+----
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
