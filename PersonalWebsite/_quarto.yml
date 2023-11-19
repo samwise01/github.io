@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Gazi Amena Noor Shamita"
+  description: "Never give up until you try"
+  image: img/my_image.jpg
+
+ # your sub-pages
+  navbar:
+    left: 
+    
+      - text: "Photography"
+        href: photography/index.qmd
+      - text: "CV"
+        href: cv/index.qmd
+        
+    right:
+      - icon: twitter
+        href: https://twitter.com/samitagazi
+      - icon: facebook
+        href: https://www.facebook.com/hopeness.sam/
+      - icon: instagram
+        href: https://www.instagram.com/samwise.04/
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gazishamita/
+      - icon: envelope
+        aria-label: email
+        href: "mailto: mail.gxs483@case.edu"  
+  
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
+
